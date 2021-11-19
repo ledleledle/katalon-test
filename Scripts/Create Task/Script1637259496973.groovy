@@ -25,5 +25,3 @@ WebUI.setText(findTestObject('Object Repository/Page_My Todo app/input_What need
 
 WebUI.click(findTestObject('Object Repository/Page_My Todo app/button_Add'))
 
-WebUI.click(findTestObject('Object Repository/Page_My Todo app/input_CICD_todo-E3tttGdDyzDh53FRStO8r'))
-

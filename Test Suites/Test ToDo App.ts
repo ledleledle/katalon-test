@@ -12,15 +12,15 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>4288adbe-6b87-4585-ad18-b01912b41b0d</testSuiteGuid>
    <testCaseLink>
-      <guid>c1ac84af-87f8-4a65-9b37-813d001382b2</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Remove All Task</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>cb1fc985-993c-4e26-806b-221762a40aa4</guid>
+      <guid>b8d4175d-a467-4fc7-b8da-420bfa8b55ce</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create Task</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5ec84539-d745-481a-abd4-cbe780c053b1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Remove All Task</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
